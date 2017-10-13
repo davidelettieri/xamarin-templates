@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.NavigationDrawer", "Xamarin.NavigationDrawer\Xamarin.NavigationDrawer.csproj", "{B209171A-3225-4751-B799-3ADDB4381B3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.BottomNavigation", "Xamarin.BottomNavigation\Xamarin.BottomNavigation.csproj", "{8E523044-C9E0-44C2-B97A-BC69EDE0840B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{B209171A-3225-4751-B799-3ADDB4381B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B209171A-3225-4751-B799-3ADDB4381B3F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B209171A-3225-4751-B799-3ADDB4381B3F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E523044-C9E0-44C2-B97A-BC69EDE0840B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
